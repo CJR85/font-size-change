@@ -41,7 +41,7 @@ body {
   cursor: pointer;
 }
 
-.container .buttons .btn .active {
+.container .buttons .btn.active {
   background: #444;
 }
 
